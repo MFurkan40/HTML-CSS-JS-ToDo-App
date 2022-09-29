@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JS Todo List</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="bg-container">
+      <div class="cloud">
+        <img src="./img/cloud1.png" alt="" style="--i: 1" />
+        <img src="./img/cloud2.png" alt="" style="--i: 2" />
+        <img src="./img/cloud3.png" alt="" style="--i: 3" />
+        <img src="./img/cloud4.png" alt="" style="--i: 4" />
+        <img src="./img/cloud5.png" alt="" style="--i: 5" />
+      </div>
+      <main class="main-container">
+        <header>To Do List</header>
+        <section class="todo-add">
+          <input type="text" id="todo-input" placeholder="Add New Todo..." />
+          <button type="submit" id="todo-button">Add</button>
+        </section>
+
+        <section class="todos">
+          <ul id="todo-ul"></ul>
+        </section>
+      </main>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
