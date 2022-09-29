@@ -2,6 +2,8 @@
 
 ## Project View
 
+![To-Do App Snapshot](./img/screen-capture.gif)
+
 ## Objective
 
 Make a To-Do App as in the sample designs.
