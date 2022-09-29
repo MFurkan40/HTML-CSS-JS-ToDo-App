@@ -2,7 +2,9 @@
 
 ## Project View
 
-![To-Do App Snapshot](./img/screen-capture.gif)
+<div style="text-align:center">
+    <img src="./img/screen-capture.gif" />
+</div>
 
 ## Objective
 
