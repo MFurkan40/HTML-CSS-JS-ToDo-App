@@ -8,6 +8,7 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   width: 100vw;
   height: 100vh;
+  overflow-y: hidden;
 }
 
 .bg-container {
