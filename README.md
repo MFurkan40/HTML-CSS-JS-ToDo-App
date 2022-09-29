@@ -2,9 +2,9 @@
 
 ## Project View
 
-<div style="text-align:center">
-    <img src="./img/screen-capture.gif" />
-</div>
+<p>
+<img src="./img/screen-capture.gif" width="100%"/>
+</p>
 
 ## Objective
 
