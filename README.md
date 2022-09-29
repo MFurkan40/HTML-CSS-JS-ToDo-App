@@ -2,7 +2,7 @@
 
 ## Project View
 
-![To-Do App Snapshot](./img/screen-capture.webm)
+![To-Do App Snapshot](./img/screen-capture.gif)
 
 ## Objective
 
